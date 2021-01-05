@@ -12,12 +12,12 @@ import java.util.Date;
  */
 @Component
 public class TaskJob {
-    @Scheduled(cron = "0/10 * * * * ?")
+    /*@Scheduled(cron = "0/10 * * * * ?")
     public void job1(){
         System.out.println("job1开始执行");
     }
     @Scheduled(fixedRate = 2000)
     public void job2() {
         System.out.println("job2开始执行");
-    }
+    }*/
 }
