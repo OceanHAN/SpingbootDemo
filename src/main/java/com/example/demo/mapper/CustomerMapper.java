@@ -8,7 +8,7 @@ import com.baomidou.mybatisplus.core.mapper.BaseMapper;
  * 客户表 Mapper 接口
  * </p>
  *
- * @author zhf
+ * @author OceanHan
  * @since 2021-02-05
  */
 public interface CustomerMapper extends BaseMapper<Customer> {

@@ -11,7 +11,7 @@ import lombok.EqualsAndHashCode;
  * 客户表
  * </p>
  *
- * @author zhf
+ * @author OceanHan
  * @since 2021-02-05
  */
 @Data

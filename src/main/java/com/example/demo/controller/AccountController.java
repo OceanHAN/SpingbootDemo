@@ -17,7 +17,7 @@ import javax.servlet.http.HttpSession;
  * 账号表 前端控制器
  * </p>
  *
- * @author zhf
+ * @author OceanHan
  * @since 2021-02-05
  */
 @Controller
@@ -29,7 +29,7 @@ public class AccountController {
     /**
      * 用户登录
      * @param name
-     * @param passWord
+     * @param password
      * @author OceanHan
      * @date 2021/2/5 14:56
      * @return java.lang.String

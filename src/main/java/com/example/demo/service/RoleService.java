@@ -8,7 +8,7 @@ import com.baomidou.mybatisplus.extension.service.IService;
  * 角色表 服务类
  * </p>
  *
- * @author zhf
+ * @author OceanHan
  * @since 2021-02-05
  */
 public interface RoleService extends IService<Role> {
