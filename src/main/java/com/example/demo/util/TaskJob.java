@@ -1,5 +1,4 @@
 package com.example.demo.util;
-import org.springframework.scheduling.annotation.Scheduled;
 import org.springframework.stereotype.Component;
 
 import java.util.Date;
